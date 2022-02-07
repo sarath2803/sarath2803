@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarath Krishanan</h1>
 <h3 align="center">A passionate Artificial Intelligence aspirant from Central University of Rajasthan, India</h3>
 
-<p align="left"> <a href="https://twitter.com/SarathK14926731" target="blank"><img src="https://img.shields.io/twitter/follow/@SarathK14926731?logo=twitter&style=for-the-badge" alt="Sarath Krishnan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SarathK14926731" target="blank"><img src="https://img.shields.io/twitter/follow/SarathK14926731?logo=twitter&style=for-the-badge" alt="Sarath Krishnan" /></a> </p>
 
 - 🔭 I’m currently working on **Movie Recommendation System Using Sentiment Analysis**
 
