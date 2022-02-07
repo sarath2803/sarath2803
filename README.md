@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/@SarathK14926731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarath krishnan" height="30" width="40" /></a>
 <a href="https://kaggle.com/sarathkrishnan2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarathkrishnan2803" height="30" width="40" /></a>
-<a href="https://fb.com/sarath krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sarath Krishnan" height="30" width="40" /></a>
+<a href="https://fb.com/sarath krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarath.balanvv" height="30" width="40" /></a>
 <a href="https://instagram.com/black_b0ard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_b0ard" height="30" width="40" /></a>
 </p>
 
